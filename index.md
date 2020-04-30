@@ -4,28 +4,28 @@
 
 ### CISC3130 Assignments
 
-[Project 1 Title](/cisc3130a1)
+[Top Streaming Artists](/cisc3130a1)
 
-https://github.com/Cleverrness/TopStreamingArtists
 
+[Github Repository](https://github.com/Cleverrness/TopStreamingArtists)
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Music Playlist](/cisc3130a2.md)
 
+
+[Github Repository](https://github.com/Cleverrness/Playlist)
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Movie Genres](/cisc3130a4.md)
 
+
+[Github Repository](https://github.com/Cleverrness/MovieGenres)
 ---
 
-### Category Name 2
+### CISC3115 Assignments
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Customer IO - Java FX](https://github.com/Cleverrness/CustomerIO)
+- [Split Bill Calculator - Java FX](https://github.com/Cleverrness/SplitBillCalculator)
+- [Shape Demo - Java](https://github.com/Cleverrness/Assignment3Q2/tree/master/src)
+- [Pin Number Program- Java](https://github.com/Cleverrness/Assignment1)
 ---
 
 
