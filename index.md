@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### CISC3130 Assignments
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/cisc3130a1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
