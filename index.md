@@ -5,7 +5,8 @@
 ### CISC3130 Assignments
 
 [Project 1 Title](/cisc3130a1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+https://github.com/Cleverrness/TopStreamingArtists
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
